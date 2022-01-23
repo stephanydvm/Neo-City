@@ -19,7 +19,7 @@ NCT is a kpop group made up of 4 subunits (U, 127, Dream and WayV), each of whic
 So, the idea of Neo City actually was born from SM's SM Culture Universe (SMCU), and as NCT is my favorite group I thought it would be interesting to portray how Neo City would look like if it existed in our earthly plane through out a map, how the group expanded in subunits as well as the fandom growth through their first 5 years in a simulation.
 
 ## Results
-You can watch the final gif in the repository files named as _NCity.gif_
+You can find the final gif in the repository files named as _NCity.gif_ as well as the source code named as _simulation.pde_.
 
 ## Disclaimers
 1) The number used as the total population (8.3M) was taken by the number of followers of NCT's official Twitter account as of Jan 22, 2022. Doesn't represent any official data.
